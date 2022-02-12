@@ -1,4 +1,4 @@
-<embed
-src="GAME URL"
-cts=0" width=???" height=???"
-pluginspage="https://www.macromedia.com/go/getflashplayer"></embed>
+<script src="https://ubg100.github.io/games/ruffle-nightly-2022_01_21-web-selfhosted/ruffle.js"></script>
+<div class="swf"dir="ltr" style="text-align: left;" trbidi="on">
+        <embed height="480" pluginspage=" http://www.macromedia.com/go/getflashplayer" src="swf file here" type="application/x-shockwave-flash" width="620"></embed>
+</div>
